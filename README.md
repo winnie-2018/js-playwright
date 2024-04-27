@@ -1,1 +1,1 @@
-# udemy-playwright
+# js-playwright
